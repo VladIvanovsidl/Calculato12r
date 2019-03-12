@@ -13,6 +13,9 @@ public class Program {
             if (key >= ' ') {
 
 
+
+
+
                 calc.press(key);
                 System.out.println(calc);
             }
